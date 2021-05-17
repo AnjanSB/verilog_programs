@@ -1,0 +1,20 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_3.srcs/sources_1/new/led_blink.v" \
+"../../../../project_3.srcs/sources_1/new/_4bC.v" \
+"../../../../project_3.srcs/sources_1/new/_8bC.v" \
+"../../../../project_3.srcs/sources_1/new/_2to1mux.v" \
+"../../../../project_3.srcs/sources_1/new/_3to1mux.v" \
+"../../../../project_3.srcs/sources_1/new/_2to4dec.v" \
+"../../../../project_3.srcs/sources_1/new/_3to8dec.v" \
+"../../../../project_3.srcs/sources_1/new/_5to32dec.v" \
+"../../../../project_3.srcs/sources_1/new/TLs.v" \
+"../../../../project_3.srcs/sources_1/new/Elv.v" \
+"../../../../project_3.srcs/sim_1/new/_4bC_tb.v" \
+"../../../../project_3.srcs/sim_1/new/TLs_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

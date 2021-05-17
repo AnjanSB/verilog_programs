@@ -1,0 +1,26 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/led_blink.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module led_blink
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/_4bC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module _4bC
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/_8bC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module _8bC
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/_2to1mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module _2to1mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/_3to1mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module _3to1mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/_2to4dec.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module _2to4dec
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/_3to8dec.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module _3to8dec
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/_5to32dec.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module _5to32dec
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/TLs.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TLs
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/Elv.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Elv
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/dec_lgt.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dec_lgt
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sim_1/new/_4bC_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module _4bC_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sim_1/new/TLs_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TLs_tb

@@ -1,0 +1,18 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/Sree Anjan/verilog/project_3/project_3.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sim_1/new/TLs_tb.v,1621147332,verilog,,,,TLs_tb,,,,,,,,
+C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sim_1/new/_4bC_tb.v,1620913247,verilog,,C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sim_1/new/TLs_tb.v,,_4bC_tb,,,,,,,,
+C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/Elv.v,1621229858,verilog,,C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/dec_lgt.v,,Elv,,,,,,,,
+C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/TLs.v,1621270425,verilog,,C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/Elv.v,,TLs,,,,,,,,
+C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/_2to1mux.v,1620921295,verilog,,C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/_3to1mux.v,,_2to1mux,,,,,,,,
+C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/_2to4dec.v,1621002424,verilog,,C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/_3to8dec.v,,_2to4dec,,,,,,,,
+C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/_3to1mux.v,1620925497,verilog,,C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/_2to4dec.v,,_3to1mux,,,,,,,,
+C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/_3to8dec.v,1620962948,verilog,,C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/_5to32dec.v,,_3to8dec,,,,,,,,
+C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/_4bC.v,1620914752,verilog,,C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/_8bC.v,,_4bC,,,,,,,,
+C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/_5to32dec.v,1621006663,verilog,,C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/TLs.v,,_5to32dec,,,,,,,,
+C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/_8bC.v,1620920303,verilog,,C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/_2to1mux.v,,_8bC,,,,,,,,
+C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/dec_lgt.v,1621269120,verilog,,C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sim_1/new/_4bC_tb.v,,dec_lgt,,,,,,,,
+C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/led_blink.v,1621006938,verilog,,C:/Users/Sree Anjan/verilog/project_3/project_3.srcs/sources_1/new/_4bC.v,,led_blink,,,,,,,,

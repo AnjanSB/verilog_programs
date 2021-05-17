@@ -1,0 +1,7 @@
+Running: xsim.dir/TLs_behav/xsimk.exe -simmode gui -wdb TLs_behav.wdb -simrunnum 0 -socket 49880
+Design successfully loaded
+Design Loading Memory Usage: 5808 KB (Peak: 5808 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 12676 KB (Peak: 12676 KB)
+Simulation CPU Usage: 78 ms
